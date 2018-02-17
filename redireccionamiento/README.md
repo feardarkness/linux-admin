@@ -10,6 +10,8 @@ Para realizar los redireccionamientos, se utilizará:
 * head: imprimir la primera parte de los archivos
 * tail: imprimir la última parte de los archivos
 * tee: leer del "standard input" e imprimir al "standard output" ó archivos.
+* fmt: Para eliminar espacios entre palabras u otros (quizas saltos de línea). -u uniforma los espacios, un espacio entre palabras y dos espacios entre párrafos.
+* nl: para contar líneas
 
 ## Standard Input, Output and Error
 
